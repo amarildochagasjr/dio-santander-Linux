@@ -1,5 +1,7 @@
-![dio.me](https://github.com/amarildochagasjr/dio-santander-Linux/blob/main/img/dio-santander.png)
-# DIO Santander - Linux para Iniciantes
+<div align= "center">
+   <img src="https://github.com/amarildochagasjr/dio-santander-Linux/blob/main/img/dio-santander.png" width="175" alt="dio.me">
+   <h1>DIO Santander - Linux para Iniciantes</h1>
+</div>
 
 Este repositório contém os desfios de projeto do curso **DIO Santander - Linux para Iniciantes**. Este curso é oferecido pela parceria dio-Santander e tem como conteúdo programático:
 
@@ -35,7 +37,7 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 - **Avalie este Bootcamp 2025** (Básico - 1h)
 
 ## 🚀 Como Participar do Curso ?
-Acesse o site dio:
+**Acesse o site dio:**
 
    [![dio.me](https://github.com/amarildochagasjr/dio-santander-Linux/blob/main/img/dio.png)](https://web.dio.me/track/13769709-ed73-4c8b-a846-635c1299bacf)
 
