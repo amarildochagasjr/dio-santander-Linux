@@ -47,11 +47,15 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
         
 - **Desafio 2: Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache).**
 
+  Neste projeto foi criado um script onde será provisionado um servidor web automaticamente, o principal trabalho de um servidor da web é exibir o conteúdo do site por meio do armazenamento, processamento e entrega de páginas da web aos usuários.
+
    Acessar script:
 
         em andamento ...
   
 - **Desafio 3: Utilização Prática no Cenário de Microsserviços.**
+
+  A tecnologia de Containers promete mudar a maneira como as operações de TI são realizadas, abstraindo ambientes de desenvolvimento e otimizando o consumo de recursos. Nesse contexto, foi implementado uma estrutura de Microsserviços Linux.
 
    Acessar script:
 
