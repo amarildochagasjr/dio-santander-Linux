@@ -36,6 +36,25 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 - **Docker: Utilização Prática no Cenário de Microsserviços** (Desafio de projeto - Avançado - 1h)
 - **Avalie este Bootcamp 2025** (Básico - 1h)
 
+## 🎯 Desafios de projeto:
+- **Desafio 1: Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.**
+
+  Acessar script:
+
+        em andamento ...
+        
+- **Desafio 2: Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache).**
+
+   Acessar script:
+
+        em andamento ...
+  
+- **Desafio 3: Utilização Prática no Cenário de Microsserviços.**
+
+   Acessar script:
+
+        em andamento ...
+  
 ## 🚀 Como Participar do Curso ?
 **Acesse o site dio:**
 
