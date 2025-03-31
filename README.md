@@ -39,6 +39,8 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 ## 🎯 Desafios de projeto:
 - **Desafio 1: Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões.**
 
+  Neste projeto foi criado um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente.
+
   Acessar script:
 
         em andamento ...
