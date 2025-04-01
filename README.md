@@ -43,7 +43,7 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 
   Acessar script:
 
-        em andamento ...
+        https://github.com/amarildochagasjr/dio-santander-Linux/tree/main/desafio-1%3A%20IaC
         
 - **Desafio 2: Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache).**
 
@@ -51,7 +51,7 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 
    Acessar script:
 
-        em andamento ...
+        https://github.com/amarildochagasjr/dio-santander-Linux/tree/main/desafio-2%3A%20Servidor%20web
   
 - **Desafio 3: Utilização Prática no Cenário de Microsserviços.**
 
