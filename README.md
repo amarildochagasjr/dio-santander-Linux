@@ -59,7 +59,7 @@ Este repositório contém os desfios de projeto do curso **DIO Santander - Linux
 
    Acessar script:
 
-        em andamento ...
+        https://github.com/amarildochagasjr/dio-santander-Linux/tree/main/desafio-3%3A%20Docker%3A%20Utiliza%C3%A7%C3%A3o%20Pr%C3%A1tica%20no%20Cen%C3%A1rio%20de%20Microsservi%C3%A7os
   
 ## 🚀 Como Participar do Curso ?
 **Acesse o site dio:**
